@@ -1,0 +1,20 @@
+{
+  "name": "DuoGesto - Finanças em Harmonia",
+  "short_name": "DUOGESTO",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0D4233",
+  "theme_color": "#B88A7D",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
